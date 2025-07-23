@@ -1,0 +1,294 @@
+html{
+    font-size: 10px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+header ul {
+    display: flex;
+    font-size: 2rem;
+    gap: 3.5rem;
+    list-style: none;
+    margin-right: 5rem;
+    color: rgba(255, 255, 255, 1);
+}
+ul li:first-child{
+    color: rgba(251, 46, 134, 1);
+}
+.gamertext{
+    display: flex;
+    padding-left: 3.8rem;
+    margin-top: 1rem;
+    color: rgba(253, 0, 84, 1);
+    gap: 1rem;
+    
+}
+.gamerimage{
+    height: 43px;
+    width: 43px;
+}
+.searchtext{
+    margin-right: 7rem; 
+    margin-top: 1.5rem;
+    padding-left:1.5rem;
+}
+
+.form{
+   width: 30rem;
+   height: 3rem;
+   border-radius: 1rem;
+}
+
+.psearch{
+   transform: translateY(-1.5rem);
+}
+.rightimages{
+    transform: translateX(-3rem);
+    padding-top: 2rem;
+}
+main{
+    background-color: rgba(238, 204, 215, 1);
+    height: 59.3rem;
+}
+.Rectangle{
+    margin-top: 9.3rem;
+    margin-left: 7.9rem;
+}
+.PS4V2DualShock4{
+    margin-left: 16rem;
+   margin-top: -20rem;
+   font-size: 3rem;
+}
+.wirelesscontroller{
+    font-size: 1.5rem;
+    margin-left: 15rem;
+    color: rgba(114, 114, 114, 1);
+}
+.₹2999{
+    margin-left: 15rem;
+}
+.BUYnow{
+    margin-top: 10rem;
+    margin-left: 15rem;
+    font-size: 3rem;
+    background-color: rgb(238, 50, 141) ;
+    width: 39.5rem;
+    height: 7rem;
+    border-radius: 2rem;
+}
+.BUYnow:hover{
+    cursor: pointer;
+}
+.Featured{
+    font-size: 4.6rem;
+    margin-top: 27rem;
+    color: rgba(26, 11, 91, 1);
+   display: flex;
+   justify-content: center;
+}
+.Laptopstext{
+    font-size: 3.6rem;
+   
+    width: 100%;
+    height: auto;
+    border-radius: 4rem;
+    display: grid;
+    grid-template-columns: 40rem 40rem 40rem;  
+    gap: 1rem;
+}
+.Laptops{
+   margin-left: 2rem;
+   background-color: rgba(254, 206, 222, 1);
+   border-radius: 4rem;
+   text-align: center;
+}
+.HeadPhones{
+    background-color: rgba(254, 206, 222, 1);
+    border-radius: 4rem;
+    text-align: center;
+}
+.MotherBoards{
+    background-color: rgba(254, 206, 222, 1);
+    border-radius: 4rem;
+    text-align: center;
+}
+.Leatest{
+    color: rgba(21, 24, 117, 1);
+    font-size: 4.6rem;
+    display: flex;
+    justify-content: center;
+}
+.BestSeller{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    gap: 3rem;
+}
+.NewArrival{
+   color: red;
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+.pclass{
+    color: rgba(21, 24, 117, 1);
+}
+.mouselenovops5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem
+    ;
+
+}
+.mouse{
+   text-align: center;
+   font-size: 2rem;
+   background-color: rgba(254, 206, 222, 1);
+   border-radius: 2rem;
+}
+
+.Legion{
+    text-align: center;
+    font-size: 2rem;
+     background-color: rgba(254, 206, 222, 1);
+     border-radius: 2rem;
+}
+.ps5{
+    font-size: 2rem;
+    text-align: center;
+  background-color: rgba(254, 206, 222, 1);
+  border-radius: 2rem;
+}
+.HeadsetoculusXbox{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    max-width: 30rem;
+}
+.Headset1{
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgba(254, 206, 222, 1);
+      border-radius: 2rem;
+
+}
+.oculusquest2{
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgba(254, 206, 222, 1);
+      border-radius: 2rem;
+
+}
+.Xbox{
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgba(254, 206, 222, 1);
+    border-radius: 2rem;
+} 
+.WhatGamersOffer{
+    text-align: center;
+    font-size: 4rem;
+    color: rgba(21, 24, 117, 1);
+}
+.Group266{
+   display: flex;
+   justify-content: center;
+}
+.FreeShiping{
+    display: flex;
+    gap: 15rem;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+.Lorem{
+    display: flex;
+    gap: 3.5rem;
+}
+.TrendingProducts{
+    text-align: center;
+    font-size: 3rem;
+    color: rgba(21, 24, 117, 1);
+}
+.joystickOculus{
+display: grid;
+grid-template-columns: 50rem 50rem;
+gap: 3rem
+;
+margin-left: 15rem;
+}
+.oculus1{
+     background-color: rgba(254, 206, 222, 1);
+    text-align: center;
+    font-size: 2rem;
+     border-radius: 2rem;
+}
+.joystick1{
+    font-size: 2rem;
+    text-align: center;
+ background-color: rgba(254, 206, 222, 1);
+  border-radius: 2rem;
+}
+footer{
+    background-color:rgba(0, 0, 0, 1);
+}
+.gamertext2{
+    display: flex;
+    gap: 2rem;
+    margin-top: 220rem;
+    margin-left: 10rem;
+    color: red;
+}
+.sub{
+    margin-left: 10rem;
+    margin-top: 3rem;
+    font-size: 1.4rem;
+     color: rgba(255, 255, 255, 1);
+}
+.email{
+    display: flex;
+    gap: 1rem;
+    margin-left: 9rem;
+}
+.help{
+    display: flex;
+    gap: 20rem;
+    margin-left: 60rem;
+    color: rgba(255, 255, 255, 1);
+}
+.Shop{
+    display: grid;
+    grid-template-columns: 10rem 10rem 10rem;
+    gap: 20rem;
+    margin-left: 60rem;
+     color: rgba(255, 255, 255, 1);
+}
+
+@media(max-width: 900px){
+
+    .mouselenovops5 {
+        grid-template-columns: 1fr;
+        padding-left: 10rem;
+    }
+    .Laptopstext {
+        grid-template-columns: 1fr;
+        padding-left: 10rem;
+    }
+    .HeadsetoculusXbox{
+         grid-template-columns: 1fr;
+        padding-left: 10rem;
+    }
+    .joystickOculus{
+        grid-template-columns: 1fr;
+        padding-left: 10rem;
+    }
+    footer{
+        margin-top: 450rem;
+    }
+  
+
+}
+
+
